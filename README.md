@@ -1,5 +1,5 @@
 # R_02_Calculator_Application
-### Its a very simple beginers calculator application. see project demo [Here]()
+Its a very simple beginers calculator application. see project demo [Here]()
 
 # Getting Started with Create React App
 
